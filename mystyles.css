@@ -1,0 +1,26 @@
+label,
+input {
+  display: block;
+  width: 20%;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+input {
+  padding: 2px;
+}
+body {
+  background-color: mintcream;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+button {
+  border: 1px solid darkgrey;
+  background-color: powderblue;
+  border-radius: 4px;
+  padding: 5px;
+  width: 20%;
+  cursor: pointer;
+}
+#answer {
+  font-weight: bold;
+}
